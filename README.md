@@ -1,4 +1,4 @@
-# My CV
+#My First Projct
 
 A static CV and portfolio page presenting professional background and contact details.
 
